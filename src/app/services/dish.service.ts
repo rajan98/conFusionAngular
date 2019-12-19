@@ -4,11 +4,9 @@ import { DISHES } from '../shared/dishes';
 
 @Injectable()
 export class DishService {
-
   constructor() { }
 
-  getDishes(): Dish[]{
+  getDishes(): Dish[] {
     return DISHES;
   }
-
 }
