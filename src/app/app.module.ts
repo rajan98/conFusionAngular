@@ -47,7 +47,7 @@ import { LoginComponent } from './login/login.component';
     MatListModule,
     MatGridListModule,
     MatCardModule,
-    MatButtonModule, 
+    MatButtonModule,
     MatDialogModule,
   ],
   providers: [
